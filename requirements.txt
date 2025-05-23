@@ -1,0 +1,8 @@
+python-dateutil
+python-decouple
+boto3
+requests
+pytz
+opsgenie_sdk==2.1.5
+matplotlib
+pandas
